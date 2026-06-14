@@ -1,64 +1,28 @@
-# KSC Fiscal Simulator FY26-27
+# 🇵🇰 Pakistan Federal Budget FY26-27 Simulator & Tax Calculator
 
-**Fiscal Intelligence Engine**  
-An interactive, data-driven tool to understand, simulate, and analyze Pakistan's Federal Budget FY26-27.
+**[🟢 View Live App: www.jus-smart.digital](https://www.jus-smart.digital/)**
 
-![KSC Fiscal Simulator](https://github.com/ksc-jusnrem/-Fiscal-Simulator/raw/main/preview.png)
+![KSC Fiscal Simulator Dashboard](Fiscalsim.jpeg)
 
-## 🌟 Features
+## 📊 About the Project
+Understand the numbers. Simulate the choices. Shape the future. 
 
-- **Personal Fiscal Profile** — Accurate income tax calculator based on FY26-27 salaried tax slabs with live doughnut visualization
-- **Allocation Intelligence Simulator** — Reallocate national budget resources in real-time and instantly see impacts on key fiscal indicators
-- **Scenario Management** — Save, load, and compare multiple budget scenarios
-- **Live Fiscal Metrics** — Debt tracking, impact dashboard, and dynamic charts
-- **Export Options** — PDF reports and beautiful shareable cards
-- **Innovation & Market Insights** — Interactive modules on innovation scoring and market sentiment
+The **KSC Fiscal Simulator** is an interactive, real-time fiscal intelligence engine and income tax calculator designed for Pakistan's FY26-27 Federal Budget. It empowers citizens, researchers, and policymakers to calculate their personal tax profiles and simulate national resource reallocation.
 
-## 🚀 Live Demo
+Created by **KSC.JUSNREM** (Khurram Chughtae).
 
-Visit: [https://www.jus-smart.digital/](https://www.jus-smart.digital/)  
-(or any deployed version)
+## ✨ Features
+* **Income Tax Calculator:** Instantly calculate tax liabilities based on the FY26-27 brackets.
+* **Interactive Budget Simulator:** Reallocate federal funds across different sectors (Education, Defense, Healthcare, etc.) and see the real-time economic impact.
+* **Data Visualization:** Clean, responsive charts for quick fiscal insights.
+* **Export Reports:** Download your custom fiscal proposals and tax reports to PDF with one click.
+* **Fully Responsive:** Beautifully designed for desktop, tablet, and mobile devices.
 
-## 📥 How to Use
+## 🛠️ Built With
+* Standard HTML5 & JavaScript
+* Tailwind CSS
+* Chart.js
+* html2canvas & jsPDF
 
-1. Download `ksc-fiscal-simulator-fy26-27.html`
-2. Open the file in any modern web browser (Chrome, Edge, Firefox, Safari)
-3. No installation required — works completely offline
-
-## 🛠 Tech Stack
-
-- HTML5 + Tailwind CSS
-- Vanilla JavaScript + Chart.js
-- Fully client-side (no backend required)
-
-## 📊 Data Sources
-
-Based on official documents:
-- Finance Bill 2026-27
-- Federal Budget Speech
-- State Bank of Pakistan (SBP) data
-- Other public fiscal reports
-
-**Note**: This is an educational and illustrative tool. All simulations are for demonstration purposes only and not official projections.
-
-## 🤝 Contributing
-
-Contributions, feedback, and suggestions are welcome!  
-Feel free to open issues or pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Connect with KSC.JUSNREM
-
-- **Strategic Legal Intelligence**: [KSC.JUSNREM](https://www.jus-smart.digital/)
-- **Fiscal Intelligence Engine**: Part of the KSC initiative for better fiscal literacy in Pakistan
-
----
-
-**Built to promote informed public discourse on Pakistan's public finances.**
-
----
-
-*Made with ❤️ for fiscal transparency and citizen empowerment.*
+## 🚀 How to Use
+Simply visit the live link at **[jus-smart.digital](https://www.jus-smart.digital/)** to start simulating! No installation required.
